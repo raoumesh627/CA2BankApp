@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BankingSystemMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|d:\\bankingsystemmvc\\bankingsystemmvc\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|solutionrelative:bankingsystemmvc\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|d:\\bankingsystemmvc\\bankingsystemmvc\\views\\employee\\listcustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|solutionrelative:bankingsystemmvc\\views\\employee\\listcustomers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|d:\\bankingsystemmvc\\bankingsystemmvc\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|solutionrelative:bankingsystemmvc\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|d:\\bankingsystemmvc\\bankingsystemmvc\\controllers\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|solutionrelative:bankingsystemmvc\\controllers\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|d:\\bankingsystemmvc\\bankingsystemmvc\\views\\customer\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|solutionrelative:bankingsystemmvc\\views\\customer\\history.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|d:\\bankingsystemmvc\\bankingsystemmvc\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|solutionrelative:bankingsystemmvc\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|d:\\bankingsystemmvc\\bankingsystemmvc\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|solutionrelative:bankingsystemmvc\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|d:\\bankingsystemmvc\\bankingsystemmvc\\views\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E63C6B94-77E4-4764-B889-632F0492DD41}|BankingSystemMVC\\BankingSystemMVC.csproj|solutionrelative:bankingsystemmvc\\views\\customer\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "D:\\BankingSystemMVC\\BankingSystemMVC\\Controllers\\AccountService.cs",
+              "RelativeDocumentMoniker": "BankingSystemMVC\\Controllers\\AccountService.cs",
+              "ToolTip": "D:\\BankingSystemMVC\\BankingSystemMVC\\Controllers\\AccountService.cs",
+              "RelativeToolTip": "BankingSystemMVC\\Controllers\\AccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:23:17.282Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListCustomers.cshtml",
+              "DocumentMoniker": "D:\\BankingSystemMVC\\BankingSystemMVC\\Views\\Employee\\ListCustomers.cshtml",
+              "RelativeDocumentMoniker": "BankingSystemMVC\\Views\\Employee\\ListCustomers.cshtml",
+              "ToolTip": "D:\\BankingSystemMVC\\BankingSystemMVC\\Views\\Employee\\ListCustomers.cshtml",
+              "RelativeToolTip": "BankingSystemMVC\\Views\\Employee\\ListCustomers.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T10:16:47.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "History.cshtml",
+              "DocumentMoniker": "D:\\BankingSystemMVC\\BankingSystemMVC\\Views\\Customer\\History.cshtml",
+              "RelativeDocumentMoniker": "BankingSystemMVC\\Views\\Customer\\History.cshtml",
+              "ToolTip": "D:\\BankingSystemMVC\\BankingSystemMVC\\Views\\Customer\\History.cshtml",
+              "RelativeToolTip": "BankingSystemMVC\\Views\\Customer\\History.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T10:16:37.156Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BankingSystemMVC\\BankingSystemMVC\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "BankingSystemMVC\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "D:\\BankingSystemMVC\\BankingSystemMVC\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "BankingSystemMVC\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T10:16:34.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\BankingSystemMVC\\BankingSystemMVC\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "BankingSystemMVC\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "D:\\BankingSystemMVC\\BankingSystemMVC\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "BankingSystemMVC\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T10:16:25.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Transaction.cs",
+              "DocumentMoniker": "D:\\BankingSystemMVC\\BankingSystemMVC\\Models\\Transaction.cs",
+              "RelativeDocumentMoniker": "BankingSystemMVC\\Models\\Transaction.cs",
+              "ToolTip": "D:\\BankingSystemMVC\\BankingSystemMVC\\Models\\Transaction.cs",
+              "RelativeToolTip": "BankingSystemMVC\\Models\\Transaction.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:02:12.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\BankingSystemMVC\\BankingSystemMVC\\Views\\Customer\\Login.cshtml",
+              "RelativeDocumentMoniker": "BankingSystemMVC\\Views\\Customer\\Login.cshtml",
+              "ToolTip": "D:\\BankingSystemMVC\\BankingSystemMVC\\Views\\Customer\\Login.cshtml",
+              "RelativeToolTip": "BankingSystemMVC\\Views\\Customer\\Login.cshtml",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABkAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-05T10:00:31.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\BankingSystemMVC\\BankingSystemMVC\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "BankingSystemMVC\\Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\BankingSystemMVC\\BankingSystemMVC\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "BankingSystemMVC\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAFQAAAAAAAAAAAAnwHcAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-05T10:00:19.396Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
